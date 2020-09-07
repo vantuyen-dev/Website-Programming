@@ -22,8 +22,8 @@
 
 </p>
 
-<p align="center">Link google drive group 7 via <a href="https://drive.google.com/drive/folders/1OyLWuvrNuOjBD_dGs3V2ZcO0Z9tan344?usp=sharing"> click here</a> :+1:</p>
-
+<p align="center">Link google drive group 7 <a href="https://drive.google.com/drive/folders/1OyLWuvrNuOjBD_dGs3V2ZcO0Z9tan344?usp=sharing"> click here</a></p>
+<p align="center">Description file path select topic <a href="https://drive.google.com/file/d/1b0z2GD9R4gUq2Ix5vyW108WOJZnKrvUo/view?usp=sharing"> click here</a></p>
 <h2 align="center"> :zap: Usage </h2>
 
 
